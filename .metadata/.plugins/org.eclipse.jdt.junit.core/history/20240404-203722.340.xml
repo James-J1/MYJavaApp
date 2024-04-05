@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="AppTest" project="MyJavaApp" tests="1" started="1" failures="1" errors="0" ignored="0">
+  <testsuite name="com.jenkins.MyJavaApp.AppTest" time="0.002">
+    <testcase name="testApp" classname="com.jenkins.MyJavaApp.AppTest" time="0.002">
+      <failure>junit.framework.AssertionFailedError&#13;
+	at junit.framework.Assert.fail(Assert.java:47)&#13;
+	at junit.framework.Assert.assertTrue(Assert.java:20)&#13;
+	at junit.framework.Assert.assertTrue(Assert.java:27)&#13;
+	at com.jenkins.MyJavaApp.AppTest.testApp(AppTest.java:36)&#13;
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)&#13;
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)&#13;
+	at junit.framework.TestCase.runTest(TestCase.java:154)&#13;
+	at junit.framework.TestCase.runBare(TestCase.java:127)&#13;
+	at junit.framework.TestResult$1.protect(TestResult.java:106)&#13;
+	at junit.framework.TestResult.runProtected(TestResult.java:124)&#13;
+	at junit.framework.TestResult.run(TestResult.java:109)&#13;
+	at junit.framework.TestCase.run(TestCase.java:118)&#13;
+	at junit.framework.TestSuite.runTest(TestSuite.java:208)&#13;
+	at junit.framework.TestSuite.run(TestSuite.java:203)&#13;
+	at org.eclipse.jdt.internal.junit.runner.junit3.JUnit3TestReference.run(JUnit3TestReference.java:128)&#13;
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:40)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:529)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:756)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:452)&#13;
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+&#13;
+</failure>
+    </testcase>
+  </testsuite>
+</testrun>

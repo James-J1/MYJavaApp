@@ -69,3 +69,7 @@
 2024-04-04 20:24:28,487 [Worker-130: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
 2024-04-04 20:24:29,028 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jesse\Course4\Jenkins\MyJavaApp\src\main\resources
 2024-04-04 20:24:29,030 [Worker-139: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jesse\Course4\Jenkins\MyJavaApp\src\test\resources
+2024-04-04 20:31:45,158 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jesse\Course4\Jenkins\MyJavaApp\src\main\resources
+2024-04-04 20:31:45,159 [Worker-3: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jesse\Course4\Jenkins\MyJavaApp\src\test\resources
+2024-04-04 20:37:31,902 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jesse\Course4\Jenkins\MyJavaApp\src\main\resources
+2024-04-04 20:37:31,903 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jesse\Course4\Jenkins\MyJavaApp\src\test\resources
